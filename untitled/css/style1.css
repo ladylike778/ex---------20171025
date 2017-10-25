@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding:0 ;
+}
+#wrap{
+    /*background-color: coral;*/
+    max-width: 1000px;
+    margin: 0 auto auto auto;
+
+    align: center;
+    text-align: center;
+    background-image: linear-gradient(rgba(100,100,100,0.3),rgba(100,100,100,0.9));
+}
+.test{
+    font-size: 87em;
+}
+.navBar {
+    display: inline-block;
+    margin: 0 auto auto auto;
+}
